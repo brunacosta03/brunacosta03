@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Bruna and I'm a Software/Data Engineer from Portugal.</h2>
+<h2 align="left">Hi 👋! My name is Bruna and I'm a Software/AI Engineer from Portugal.</h2>
 
 ###
 
